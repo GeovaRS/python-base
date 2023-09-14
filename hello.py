@@ -1,3 +1,15 @@
+#!/usr/bin/env python3
+
+# which python
+# /usr/bin/python
+# !/usr/bin/python
+
+# Ambiente Python
+# env
+# env python
+
+# chmod +x hello.py
+
 # Este programa imprime/exibe no Terminal:
 # Hello, World!
 print("Hello, World!")
