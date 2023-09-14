@@ -1,3 +1,5 @@
+# Este programa imprime/exibe no Terminal:
+# Hello, World!
 print("Hello, World!")
 
 # print('teste'.upper())
